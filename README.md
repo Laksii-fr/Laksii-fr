@@ -1,171 +1,193 @@
-<h1 align="center">Hi 👋, I'm Lakshay Sharma</h1>
-<h3 align="center">Backend Engineer | AI Infrastructure & Systems Specialist</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=laksii-fr&label=Profile%20views&color=0e75b6&style=flat" alt="laksii-fr" />
+<!-- ========================= HEADER ========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=230&section=header&text=Lakshay%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Infrastructure%20%26%20Systems&descAlignY=60&descSize=20" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=laksii-fr" alt="laksii-fr" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FF&center=true&vCenter=true&multiline=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Lakshay%2C+a+Backend+Engineer;Building+AI+Infrastructure+%26+LLM+Workflows;FastAPI+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+PostgreSQL;Shipping+scalable+APIs+to+production+%F0%9F%9A%80;Open+to+collaborate+on+AI+%26+Backend+projects" alt="Typing SVG" />
   </a>
-</p>
-
-<h2 align="left">👨‍💻 About Me</h2>
-
-<p align="left">
-Backend Engineer specializing in Python and Node.js-based systems, scalable APIs, and AI infrastructure. Experienced in building production-grade platforms using FastAPI, cloud services, and LLM-driven workflows.
-</p>
-
-- 🔭 Currently working as **Backend Engineer (AI Infrastructure)** at **Tryzent Technologies Pvt. Ltd.**
-- 🚀 Building **LeoQui** - AI-Powered Educational Platform and **AgentHub** - AI Agent Marketplace
-- 🌱 Expanding expertise in **AI Infrastructure, LLM Workflows, and Scalable Systems**
-- 💼 Experience with **FastAPI, MongoDB, PostgreSQL, AWS, and OpenAI API**
-- 📫 Reach me at **Lakshyash5@gmail.com**
-- 🔗 LinkedIn: **[lakshay-sharma2653](https://linkedin.com/in/lakshay-sharma2653)**
-
-<h2 align="left">🛠️ Technical Skills</h2>
-
-**Languages & Databases:**
-<br/>Python, JavaScript, Node.js, SQL, MongoDB, PostgreSQL, MySQL
-
-**Backend & Systems:**
-<br/>FastAPI, Flask, Django, Express.js, REST APIs, Async Processing, API Design, Authentication & Authorization (JWT, OAuth)
-
-**AI & LLM Infrastructure:**
-<br/>OpenAI API, LangChain, LangGraph, CrewAI, RAG (Retrieval-Augmented Generation), Embeddings, AI Agent Development
-
-**Cloud & DevOps:**
-<br/>AWS (EC2, S3, Lambda), Azure, Google Cloud, Firebase, Git/GitHub, CI/CD Pipelines, GitHub Actions
-
-**Frontend:**
-<br/>Next.js, React.js, HTML, CSS
-
-<h2 align="left">💼 Professional Experience</h2>
-
-**Backend Engineer (AI Infrastructure)** | Tryzent Technologies Pvt. Ltd. | *June 2024 – Present*
-- Designed core backend APIs using Python FastAPI and Node.js
-- Built 8+ production REST APIs with MongoDB, reducing manual operations by 40%
-- Implemented CI/CD pipelines with GitHub Actions and AWS
-- Optimized API performance, improving response latency by 25%
-
-**Backend Developer Intern** | ABSAX Technologies Pvt. Ltd. | *June 2023 – August 2023*
-- Enhanced Two-Factor Authentication (2FA) systems using Node.js and MySQL
-- Deployed backend services on AWS EC2 with monitoring and logging
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-**LeoQui** - AI-Powered Educational Platform
-- Built unified AI-driven education platform with FastAPI, PostgreSQL, and OpenAI
-- Integrated LiveKit video sessions for real-time learning
-- Reduced manual evaluation by ~70%
-
-**AgentHub** - AI Agent Marketplace Backend
-- Developed backend infrastructure for AI agent marketplace
-- Built APIs for agent execution, subscriptions, and credit-based usage
-- Implemented scalable routing for concurrent agent workloads
-
-**Tryzent AI Assistant Platform** - No-Code AI Builder
-- Built backend systems for no-code AI assistant builder
-- Designed APIs for knowledge ingestion and conversation orchestration
-- Adopted by 10+ customers for automation workflows
-
-<h2 align="left">🏆 Certifications</h2>
-
-- ☁️ Cloud Computing – Google Developer Student Club
-- 🤖 AI & ML – IIT Roorkee
-- 🐍 Advanced Python – Udemy
-
-<h2 align="left">🎓 Education</h2>
-
-**B.Tech. Computer Science Engineering** | Jaypee Institute of Information Technology
-<br/>*Sep 2022 – Present | Noida, Uttar Pradesh*
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laksii-fr&show_icons=true&locale=en" alt="laksii-fr" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksii-fr&" alt="laksii-fr" />
+  <img src="https://komarev.com/ghpvc/?username=laksii-fr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://linkedin.com/in/lakshay-sharma2653">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Lakshyash5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/laksii-fr">
+    <img src="https://img.shields.io/github/followers/laksii-fr?style=for-the-badge&logo=github&color=181717" alt="followers" />
+  </a>
+</p>
+
+<!-- ========================= ABOUT ========================= -->
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+Backend Engineer specializing in <b>Python</b> and <b>Node.js</b> systems, scalable APIs, and AI infrastructure.<br/>
+I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>LLM-driven workflows</b>.
+</p>
+
+<table align="center">
+  <tr>
+    <td>🔭 <b>Now:</b> Backend Engineer (AI Infrastructure) @ <b>Tryzent Technologies</b></td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Building:</b> <b>LeoQui</b> (AI Education Platform) &amp; <b>AgentHub</b> (AI Agent Marketplace)</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Exploring:</b> AI Infrastructure, LLM Workflows, Scalable Systems</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Open to:</b> collaboration on AI Infra, Backend Systems &amp; LLM projects</td>
+  </tr>
+</table>
+
+<!-- ========================= TECH STACK ========================= -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,fastapi,flask,django,mongodb,postgres,mysql&perline=10" alt="backend skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,git,github,githubactions,linux,postman&perline=9" alt="cloud skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,pytorch,sklearn,c,cpp&perline=8" alt="frontend and ml skills" />
+</p>
+
+<details>
+<summary align="center"><b>🤖 AI &amp; LLM Infrastructure (click to expand)</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-6a11cb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-2575fc?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Async_Processing-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+</details>
+
+<!-- ========================= EXPERIENCE ========================= -->
+<h2 align="center">💼 Experience</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Backend Engineer (AI Infrastructure)</h4>
+      <b>Tryzent Technologies Pvt. Ltd.</b><br/>
+      <sub>📅 June 2024 – Present</sub>
+      <ul>
+        <li>Designed core backend APIs with <b>FastAPI</b> &amp; <b>Node.js</b></li>
+        <li>Built <b>8+ production REST APIs</b> on MongoDB → <b>40% less manual ops</b></li>
+        <li>Implemented CI/CD with <b>GitHub Actions</b> &amp; AWS</li>
+        <li>Optimized API performance → <b>25% lower latency</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔐 Backend Developer Intern</h4>
+      <b>ABSAX Technologies Pvt. Ltd.</b><br/>
+      <sub>📅 June 2023 – August 2023</sub>
+      <ul>
+        <li>Enhanced <b>2FA systems</b> using Node.js &amp; MySQL</li>
+        <li>Deployed services on <b>AWS EC2</b> with monitoring &amp; logging</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- ========================= PROJECTS ========================= -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🎓 LeoQui</h3>
+      <p align="center"><i>AI-Powered Educational Platform</i></p>
+      <ul>
+        <li>Unified AI-driven education platform</li>
+        <li>Stack: FastAPI, PostgreSQL, OpenAI</li>
+        <li>LiveKit video sessions for real-time learning</li>
+        <li>Cut manual evaluation by <b>~70%</b></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 AgentHub</h3>
+      <p align="center"><i>AI Agent Marketplace Backend</i></p>
+      <ul>
+        <li>Backend infra for an AI agent marketplace</li>
+        <li>APIs for agent execution, subscriptions &amp; credit-based usage</li>
+        <li>Scalable routing for concurrent agent workloads</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧩 Tryzent AI Assistant</h3>
+      <p align="center"><i>No-Code AI Builder</i></p>
+      <ul>
+        <li>Backend for a no-code AI assistant builder</li>
+        <li>APIs for knowledge ingestion &amp; conversation orchestration</li>
+        <li>Adopted by <b>10+ customers</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- ========================= STATS ========================= -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laksii-fr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksii-fr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laksii-fr&show_icons=true&locale=en&layout=compact" alt="laksii-fr" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksii-fr&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laksii-fr&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="activity graph" />
+</p>
 
-<p align="center">💡 Open to collaboration on AI Infrastructure, Backend Systems, and LLM-driven projects!</p>
+<!-- ========================= SNAKE (needs the GitHub Action) ========================= -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laksii-fr/laksii-fr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laksii-fr/laksii-fr/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/laksii-fr/laksii-fr/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ========================= CERTS & EDU ========================= -->
+<h2 align="center">🏆 Certifications &amp; 🎓 Education</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Computing-Google_Developer_Student_Club-4285F4?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/🤖_AI_%26_ML-IIT_Roorkee-FF6F00?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/🐍_Advanced_Python-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>B.Tech. Computer Science Engineering</b><br/>
+  Jaypee Institute of Information Technology, Noida<br/>
+  <sub>Sep 2022 – Present</sub>
+</p>
+
+<!-- ========================= FOOTER ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+Open+to+collaboration+on+AI+Infrastructure;Backend+Systems+and+LLM-driven+projects;Let's+build+something+great+together+%F0%9F%A4%9D" alt="footer typing" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:0e75b6&height=120&section=footer" alt="footer" />
+</p>
