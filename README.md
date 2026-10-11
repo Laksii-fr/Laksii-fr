@@ -32,10 +32,10 @@ I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>
 
 <table align="center">
   <tr>
-    <td>🔭 <b>Now:</b> Backend Engineer (AI Infrastructure) @ <b>Tryzent Technologies</b></td>
+    <td>🔭 <b>Now:</b> Full Stack Developer @ <b>ItsMyScreen</b> (promoted from intern)</td>
   </tr>
   <tr>
-    <td>🚀 <b>Building:</b> <b>LeoQui</b> (AI Education Platform) &amp; <b>AgentHub</b> (AI Agent Marketplace)</td>
+    <td>🚀 <b>Building:</b> <b>Shinka</b> (gamified habit tracker) &amp; shipping <b>Leoki</b> learnings into new work</td>
   </tr>
   <tr>
     <td>🌱 <b>Exploring:</b> AI Infrastructure, LLM Workflows, Scalable Systems</td>
@@ -49,10 +49,10 @@ I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,fastapi,flask,django,mongodb,postgres,mysql&perline=10" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,express,fastapi,flask,django,mongodb,postgres&perline=10" alt="backend skills" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,git,github,githubactions,linux,postman&perline=9" alt="cloud skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,gcp,firebase,git,github,githubactions,linux,postman&perline=10" alt="cloud skills" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,pytorch,sklearn,c,cpp&perline=8" alt="frontend and ml skills" />
@@ -85,9 +85,31 @@ I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>💻 Full Stack Developer</h4>
+      <b>ItsMyScreen</b><br/>
+      <sub>📅 Jul 2026 – Present · Delhi</sub>
+      <ul>
+        <li>Own full-stack features end to end: <b>Next.js</b>, PostgreSQL/Prisma/Supabase, AWS/Vercel</li>
+        <li>Marketplace scale: <b>20+ vendors, 300+ screens, 30+ bookings</b></li>
+        <li>Two-person engineering team; proactive refactoring &amp; UI/UX</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌱 Full Stack Developer Intern</h4>
+      <b>ItsMyScreen</b><br/>
+      <sub>📅 Mar 2026 – Jun 2026 · Delhi</sub>
+      <ul>
+        <li><b>Led backend engineering</b>: PostgreSQL/Prisma schema design &amp; API development</li>
+        <li>Shipped Next.js frontend features; testing, deployment, CI/CD</li>
+        <li>Promoted to full-time 🎉</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🧠 Backend Engineer (AI Infrastructure)</h4>
       <b>Tryzent Technologies Pvt. Ltd.</b><br/>
-      <sub>📅 June 2024 – Present</sub>
+      <sub>📅 Jun 2024 – Mar 2026 · Delhi</sub>
       <ul>
         <li>Designed core backend APIs with <b>FastAPI</b> &amp; <b>Node.js</b></li>
         <li>Built <b>8+ production REST APIs</b> on MongoDB → <b>40% less manual ops</b></li>
@@ -98,7 +120,7 @@ I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>
     <td width="50%" valign="top">
       <h4>🔐 Backend Developer Intern</h4>
       <b>ABSAX Technologies Pvt. Ltd.</b><br/>
-      <sub>📅 June 2023 – August 2023</sub>
+      <sub>📅 Jun 2023 – Aug 2023 · Noida</sub>
       <ul>
         <li>Enhanced <b>2FA systems</b> using Node.js &amp; MySQL</li>
         <li>Deployed services on <b>AWS EC2</b> with monitoring &amp; logging</li>
@@ -112,17 +134,28 @@ I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🎓 LeoQui</h3>
-      <p align="center"><i>AI-Powered Educational Platform</i></p>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Shinka</h3>
+      <p align="center"><i>Gamified Habit Tracking App</i></p>
       <ul>
-        <li>Unified AI-driven education platform</li>
-        <li>Stack: FastAPI, PostgreSQL, OpenAI</li>
-        <li>LiveKit video sessions for real-time learning</li>
-        <li>Cut manual evaluation by <b>~70%</b></li>
+        <li>Solo-built &amp; shipped: Next.js 15/React 19 + Tailwind, Capacitor mobile shell</li>
+        <li>Prisma/PostgreSQL backend, TypeScript rules engine</li>
+        <li><b>66-day seasons</b>, <b>21-division</b> league ladder, achievements, offline mode</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Leoki</h3>
+      <p align="center"><i>AI-Powered Educational Platform (built at Tryzent)</i></p>
+      <ul>
+        <li>Unified AI-driven education platform</li>
+        <li>Stack: FastAPI, PostgreSQL, OpenAI, LiveKit video</li>
+        <li>Cut manual evaluation by <b>~70%</b></li>
+        <li>Used by <b>2 schools &amp; 5 companies</b> incl. Maruti</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🤖 AgentHub</h3>
       <p align="center"><i>AI Agent Marketplace Backend</i></p>
       <ul>
@@ -131,7 +164,7 @@ I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>
         <li>Scalable routing for concurrent agent workloads</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🧩 Tryzent AI Assistant</h3>
       <p align="center"><i>No-Code AI Builder</i></p>
       <ul>
@@ -180,7 +213,7 @@ I build production-grade platforms using <b>FastAPI</b>, cloud services, and <b>
 <p align="center">
   <b>B.Tech. Computer Science Engineering</b><br/>
   Jaypee Institute of Information Technology, Noida<br/>
-  <sub>Sep 2022 – Present</sub>
+  <sub>2022 – 2026</sub>
 </p>
 
 <!-- ========================= FOOTER ========================= -->
